@@ -19,15 +19,12 @@ This project is designed to manage and analyze access logs.
     cd access_logs
     ```
 3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
-1. Run the main script to start processing logs:
+1. Run run.py script to start processing logs:
     ```bash
-    python main.py
+    python run.py
     ```
 2. Follow the on-screen instructions to analyze your logs.
 
