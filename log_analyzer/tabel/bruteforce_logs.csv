@@ -1,4 +1,0 @@
-ip,status,method,url,total_attempts,start_time,end_time
-154.213.192.4,404,POST,/boaform/admin/formLogin,2,28/Nov/2024:06:39:24,28/Nov/2024:14:20:12
-194.50.16.198,404,POST,/boaform/admin/formLogin,2,28/Nov/2024:10:12:53,29/Nov/2024:04:00:44
-104.28.213.130,404,POST,/pcidss/report?type=allprofiles&sid=loginchallengeresponse1requestbody&username=nsroot&set=1,4,29/Nov/2024:02:55:26,29/Nov/2024:02:57:23

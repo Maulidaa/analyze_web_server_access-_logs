@@ -1,4 +1,0 @@
-ip,date,method,url,status,size
-185.160.71.3,29/Nov/2024:04:30:00,GET,/data_penting.zip,200,12228173
-185.160.71.3,29/Nov/2024:04:33:05,GET,/secret/data_penting.zip,200,12228172
-103.80.96.14,29/Nov/2024:04:36:01,GET,/secret/data_penting.zip,200,12228173

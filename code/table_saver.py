@@ -3,13 +3,6 @@ import os
 
 
 def save_to_table(data, file_path):
-    """
-    Save data to a CSV file as a table.
-
-    Args:
-        data (list[dict]): List of dictionaries containing table data.
-        file_path (str): Path to the CSV file to save.
-    """
     # Create directory if it doesn't exist
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
