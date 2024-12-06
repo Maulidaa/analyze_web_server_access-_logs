@@ -1,0 +1,82 @@
+[
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:14:31",
+        "method": "POST",
+        "url": "/wp-content/uploads/c99shell.php?act=ls&d=%2Fvar%2Fwww%2Fhtml%2F&sort=0a",
+        "status": "200",
+        "size": 5277
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:15:05",
+        "method": "POST",
+        "url": "/wp-content/uploads/c99shell.php?act=ls&d=%2Fvar%2Fwww%2Fhtml%2F&sort=0a",
+        "status": "200",
+        "size": 5277
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:15:49",
+        "method": "POST",
+        "url": "/wp-content/uploads/c99shell.php?act=ls&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content&sort=0a",
+        "status": "200",
+        "size": 4356
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:16:45",
+        "method": "POST",
+        "url": "/wp-content/uploads/c99shell.php?act=ls&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads&sort=0a",
+        "status": "200",
+        "size": 4238
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:17:06",
+        "method": "POST",
+        "url": "/wp-content/uploads/c99shell.php?act=ls&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads&sort=0a",
+        "status": "200",
+        "size": 4238
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:17:26",
+        "method": "POST",
+        "url": "/wp-content/uploads/c99shell.php?act=ls&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F2024&sort=0a",
+        "status": "200",
+        "size": 4253
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:17:45",
+        "method": "POST",
+        "url": "/wp-content/uploads/c99shell.php?act=ls&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F2024%2F11&sort=0a",
+        "status": "200",
+        "size": 4019
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:18:55",
+        "method": "POST",
+        "url": "/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2F&cmd=ls+-l&cmd_txt=1&submit=Execute",
+        "status": "200",
+        "size": 4364
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:20:02",
+        "method": "POST",
+        "url": "/wp-content/uploads/c99shell.php?",
+        "status": "200",
+        "size": 3763
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:21:42",
+        "method": "POST",
+        "url": "/wp-content/uploads/c99shell.php?act=f&f=gacor.html&ft=edit&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F",
+        "status": "200",
+        "size": 3814
+    }
+]

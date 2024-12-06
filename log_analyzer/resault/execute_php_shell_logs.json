@@ -1,0 +1,66 @@
+[
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:11:46",
+        "method": "GET",
+        "url": "/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F&cmd=pwd&cmd_txt=1&submit=Execute",
+        "status": "200",
+        "size": 3470
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:12:02",
+        "method": "GET",
+        "url": "/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F&cmd=ls+%2Fhome%2Froot&cmd_txt=1&submit=Execute",
+        "status": "200",
+        "size": 3472
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:12:19",
+        "method": "GET",
+        "url": "/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F&cmd=ls+%2F&cmd_txt=1&submit=Execute",
+        "status": "200",
+        "size": 3562
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:12:29",
+        "method": "GET",
+        "url": "/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F&cmd=ls+%2Froot&cmd_txt=1&submit=Execute",
+        "status": "200",
+        "size": 3468
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:13:08",
+        "method": "GET",
+        "url": "/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F&cmd=cat+%2Fetc%2Fpasswd&cmd_txt=1&submit=Execute",
+        "status": "200",
+        "size": 4105
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:13:31",
+        "method": "GET",
+        "url": "/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F&cmd=cd+%2Fvar%2Fwww%2Fhtml&cmd_txt=1&submit=Execute",
+        "status": "200",
+        "size": 3468
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:18:31",
+        "method": "GET",
+        "url": "/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2F&cmd=chmod+-R+777+uploads&cmd_txt=1&submit=Execute",
+        "status": "200",
+        "size": 3480
+    },
+    {
+        "ip": "185.160.71.3",
+        "date": "29/Nov/2024:04:18:43",
+        "method": "GET",
+        "url": "/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2F&cmd=ls+-l&cmd_txt=1&submit=Execute",
+        "status": "200",
+        "size": 3597
+    }
+]

@@ -1,0 +1,11 @@
+ip,date,method,url,status,size
+185.160.71.3,29/Nov/2024:04:14:31,POST,/wp-content/uploads/c99shell.php?act=ls&d=%2Fvar%2Fwww%2Fhtml%2F&sort=0a,200,5277
+185.160.71.3,29/Nov/2024:04:15:05,POST,/wp-content/uploads/c99shell.php?act=ls&d=%2Fvar%2Fwww%2Fhtml%2F&sort=0a,200,5277
+185.160.71.3,29/Nov/2024:04:15:49,POST,/wp-content/uploads/c99shell.php?act=ls&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content&sort=0a,200,4356
+185.160.71.3,29/Nov/2024:04:16:45,POST,/wp-content/uploads/c99shell.php?act=ls&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads&sort=0a,200,4238
+185.160.71.3,29/Nov/2024:04:17:06,POST,/wp-content/uploads/c99shell.php?act=ls&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads&sort=0a,200,4238
+185.160.71.3,29/Nov/2024:04:17:26,POST,/wp-content/uploads/c99shell.php?act=ls&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F2024&sort=0a,200,4253
+185.160.71.3,29/Nov/2024:04:17:45,POST,/wp-content/uploads/c99shell.php?act=ls&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F2024%2F11&sort=0a,200,4019
+185.160.71.3,29/Nov/2024:04:18:55,POST,/wp-content/uploads/c99shell.php?act=cmd&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2F&cmd=ls+-l&cmd_txt=1&submit=Execute,200,4364
+185.160.71.3,29/Nov/2024:04:20:02,POST,/wp-content/uploads/c99shell.php?,200,3763
+185.160.71.3,29/Nov/2024:04:21:42,POST,/wp-content/uploads/c99shell.php?act=f&f=gacor.html&ft=edit&d=%2Fvar%2Fwww%2Fhtml%2Fwp-content%2Fuploads%2F,200,3814
